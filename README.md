@@ -29,9 +29,8 @@ The analysis was conducted using Python, utilizing libraries such as Pandas, Num
 
 ## Getting Started
 
-To run the analysis on your local machine, you will need to have Python and the required libraries installed. Clone this repository and execute the Jupyter notebooks in the `notebooks/` folder to reproduce the analysis.
-
-Feel free to explore the analysis reports in the `reports/` folder to view the visualizations and insights.
+To run the analysis on your local machine, you will need to have Python and the required libraries installed. Clone this repository and execute the Jupyter notebooks.
+Feel free to explore the analysis reports to view the visualizations and insights.
 
 ## Feedback and Contributions
 
