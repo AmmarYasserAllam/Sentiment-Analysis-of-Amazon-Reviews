@@ -27,11 +27,6 @@ The visualization will answer the following questions:
 The analysis was conducted using Python, utilizing libraries such as Pandas, NumPy, Matplotlib, and Natural Language Processing (NLP) techniques for sentiment analysis.
 
 
-## Getting Started
-
-To run the analysis on your local machine, you will need to have Python and the required libraries installed. Clone this repository and execute the Jupyter notebooks.
-Feel free to explore the analysis reports to view the visualizations and insights.
-
 ## Feedback and Contributions
 
 Feedback and contributions to this project are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
